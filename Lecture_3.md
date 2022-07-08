@@ -40,7 +40,7 @@ ax.axline([0,6.07282451], slope = -0.51403871);
 
 
     
-![png](L3_1.png)
+![png](plots/L3_1.png)
     
 
 
@@ -150,7 +150,7 @@ ax2.plot(x,y);
 
 
     
-![png](L3_2.png)
+![png](plots/L3_2.png)
     
 
 

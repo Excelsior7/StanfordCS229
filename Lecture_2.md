@@ -135,7 +135,7 @@ axes[2,1].scatter(i_d[:,2], i_d[:,3]); # pl - pw
 
 
     
-![png](L2_1.png)
+![png](plots/L2_1.png)
     
 
 
@@ -161,7 +161,7 @@ ax.axline((0, -0.36307552), slope = 0.41575542);
 
 
     
-![png](L2_2.png)
+![png](plots/L2_2.png)
     
 
 
