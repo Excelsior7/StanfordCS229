@@ -632,7 +632,7 @@ ax2[1,2].scatter(S_hat[:,1],S_hat[:,2]);
 
 
     
-![png](output_25_0.png)
+![png](plots/L16_3.png)
     
 
 
