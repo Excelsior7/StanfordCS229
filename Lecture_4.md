@@ -78,7 +78,7 @@ ax.axline((0,-2), slope = -3/2);
 
 
     
-![png](L4_1.png)
+![png](plots/L4_1.png)
     
 
 
@@ -119,7 +119,7 @@ ax1.axline((0, -theta[2]/theta[1]), slope = -theta[0]/theta[1]);
 
 
     
-![png](L4_2.png)
+![png](plots/L4_2.png)
     
 
 
@@ -136,6 +136,6 @@ for row in range(5):
 
 
     
-![png](L4_3.png)
+![png](plots/L4_3.png)
     
 
