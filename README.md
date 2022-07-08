@@ -8,4 +8,4 @@
 
 This repository gathers various implementations of machine learning algorithms. 
 
-Each file is in the form of Lecture_**k** and contains the implementation of one or more machine learning algorithms seen during lecture number **k** of CS229. 
+Each file in the form of Lecture_**k** contains the implementation of one or more machine learning algorithms seen during lecture number **k** of CS229. 
